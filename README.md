@@ -5,3 +5,4 @@ second checkin
 final check 
 test
 last
+pipeline check
